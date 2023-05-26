@@ -20,16 +20,18 @@ Main authors:
 - [Bwc9876](https://github.com/Bwc9876) (New Horizons v0.9.0 onwards)
 
 New Horizons Team:
-- [FreezeDriedMangos](https://github.com/FreezeDriedMangos)
 - [MegaPiggy](https://github.com/MegaPiggy)
 - [JohnCorby](https://github.com/JohnCorby) 
 - [Trifid](https://github.com/TerrificTrifid)
+- [FreezeDriedMangos](https://github.com/FreezeDriedMangos)
 
 New Horizons was made with help from:
 - [Mister_Nebula](https://github.com/misternebula) ([Marshmallow](https://github.com/misternebula/Marshmallow) main dev v0.1 to v1.1.0)
 - [Nageld](https://github.com/Nageld)
 - [Raicuparta](https://github.com/Raicuparta)
 - [jtsalomo](https://github.com/jtsalomo)
+- [Hawkbar](https://github.com/Hawkbat)
+- [dgarroDC](https://github.com/dgarroDC)
 - And the Outer Wilds modding server.
 
 Translation credits:
