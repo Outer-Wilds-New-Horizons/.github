@@ -16,7 +16,7 @@ Join the [Outer Wilds Modding Discord](https://discord.gg/MvbCbBz6Q6) if you hav
 
 ## Credits
 Main authors:
-- xen (New Horizons v0.1.0 onwards)
+- [xen](https://github.com/xen-42) (New Horizons v0.1.0 onwards)
 - [Bwc9876](https://github.com/Bwc9876) (New Horizons v0.9.0 onwards)
 
 New Horizons Team:
